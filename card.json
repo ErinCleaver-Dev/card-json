@@ -1,0 +1,22 @@
+{
+    "cards" : [ {
+        "id" : 1,
+        "name" : "Erin",
+        "location" : "usa",
+        "age" : 34,
+        "followers": "180k",
+        "photos" : "180k",
+        "profileImage": "#"
+    },
+    {
+        "id" : 2,
+        "name" : "Jakie",
+        "location" : "usa",
+        "age" : 14,
+        "followers": "180k",
+        "photos" : "180k",
+        "profileImage": "#"
+    }
+    ]
+}
+
